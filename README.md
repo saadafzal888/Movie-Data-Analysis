@@ -23,29 +23,53 @@ Merged on: `id` (from movies) and `movie_id` (from credits)
 
 ---
 
-## Exploratory Data Visualizations
+## 📊 Exploratory Data Visualizations
 
-### Movie Releases Over Time
-Visualizes the number of movies released each year from 1997 to 2016, highlighting production trends.
+### 🎞️ Movie Releases Over Time
+Visualizes the number of movies released each year from 1997 to 2016.
+![Movie Releases Over Time](images/movie_releases_over_time.png)
 
-### Budget vs Revenue Scatter Plot
+---
+
+### 💸 Budget vs Revenue Scatter Plot
 Reveals how movie budgets correlate with generated revenues.
+![Budget vs Revenue](images/budget_vs_revenue.png)
 
-### Genre Distribution
-Shows the frequency of genres like Action, Comedy, Drama, etc., to determine dominant cinematic categories.
+---
 
-### Language Distribution Pie Chart
-Depicts the most common original languages of the films (e.g., English, Español, Français, etc.).
+### 🎭 Genre Distribution
+Shows the frequency of genres to determine dominant cinematic categories.
+![Genre Distribution](images/genre_distribution.png)
 
-### Vote Average Histogram
-Illustrates how movies are rated on average, shedding light on overall sentiment.
+---
 
-### Word Clouds
-- **Tagline Word Cloud** — Common marketing phrases.
-- **Overview Word Cloud** — Recurring narrative themes.
+### 🗣️ Language Distribution Pie Chart
+Depicts the most common original languages of the films.
+![Language Distribution](images/language_distribution_pie_chart.png)
 
-### Correlation Heatmap
-Explores relationships between numerical features like budget, revenue, vote count, and average rating.
+---
+
+### ⭐ Vote Average Histogram
+Illustrates how movies are rated on average, shedding light on sentiment.
+![Vote Average](images/vote_average_distribution.png)
+
+---
+
+### ☁️ Word Clouds
+
+#### 🧠 Tagline Word Cloud
+Common marketing phrases found in movie taglines.
+![Tagline WordCloud](images/tagline_wordcloud.png)
+
+#### 📝 Overview Word Cloud
+Recurring narrative themes from movie descriptions.
+![Overview WordCloud](images/overview_wordcloud.png)
+
+---
+
+### 🔥 Correlation Heatmap
+Explore relationships between numerical features like budget, revenue, votes, and ratings.
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 ---
 
